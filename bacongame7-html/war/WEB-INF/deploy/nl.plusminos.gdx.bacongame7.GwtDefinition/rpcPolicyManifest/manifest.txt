@@ -1,0 +1,2 @@
+# Module nl.plusminos.gdx.bacongame7.GwtDefinition
+# RPC service class, partial path of RPC policy file

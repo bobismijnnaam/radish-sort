@@ -1,0 +1,13 @@
+Credits go to:
+
+Font Squirrel for their font Pacifico - http://www.fontsquirrel.com/fonts/pacifico
+A crate texture I used as a main menu background - http://opengameart.org/content/3-crate-textures-w-bump-normal
+A texture of hay I used as a background twice http://opengameart.org/content/45-high-res-ground-texture-photos?page=1
+
+Monkeys Spinning Monkeys - Kevin MacLeod (incompetech.com)
+Broken Reality - Kevin MacLeod (incompetech.com)
+
+Sounds for eating, the error klaxon and ending sound:
+https://www.freesound.org/people/viertelnachvier/sounds/170467/
+https://www.freesound.org/people/ryansnook/sounds/108012/
+https://www.freesound.org/people/Benboncan/sounds/73581/

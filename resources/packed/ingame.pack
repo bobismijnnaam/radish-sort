@@ -1,0 +1,82 @@
+
+ingame.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 0, 294
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 0, 65
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+cow
+  rotate: false
+  xy: 700, 806
+  size: 258, 188
+  orig: 258, 188
+  offset: 0, 0
+  index: -1
+bacon
+  rotate: false
+  xy: 229, 133
+  size: 214, 161
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 700, 650
+  size: 159, 156
+  orig: 159, 156
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 443, 155
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+bunny
+  rotate: false
+  xy: 700, 456
+  size: 78, 194
+  orig: 78, 194
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 859, 638
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+cheese
+  rotate: false
+  xy: 0, 0
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+insect
+  rotate: false
+  xy: 582, 218
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 229, 67
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
